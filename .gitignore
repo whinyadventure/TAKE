@@ -46,3 +46,9 @@ MvcNews/MvcNews/bin/
 MvcNews/MvcNews/obj/
 
 *.user
+
+CompanyApi/.vs/
+
+CompanyApi/CompanyApi/bin/
+
+CompanyApi/CompanyApi/obj/
